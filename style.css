@@ -90,3 +90,9 @@ button:hover{
   background-color: #DFEA33;
   transform: scale(1.02);
 }
+@media (max-width:615px){
+  .left, .right, #card{
+    width: 100%;
+    height:auto;
+  }
+}
